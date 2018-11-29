@@ -1,18 +1,32 @@
 # Project 9 - Honeypot
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 > Objective: Learn about Network Security by attacking and being attacked at vulnarable networked resources. Multiple Honey Pot VM instances were created to demonstrate it.
 
 # Which HoneyPot(s) you deployed
+1. dionaea
+2. dionaea
+3. dionaea
+4. wordpot
+5. amun
+6. p0f
 
 # Any issues you encountered
+The github clone link was broken in the instructions I had to find the right one myself to set up MHN.
 
 # A summary of the data collected: number of attacks, number of malware samples, etc.
+### Attack Stats
+![](mhn.gif)
+
+### Honeypot Attack Report
+![](attack_report.gif)
+
+### Honeypot Sensors
+![](sensors.gif)
 
 # Any unresolved questions raised by the data collected
-
-> None
+None
 
 ## License
 
